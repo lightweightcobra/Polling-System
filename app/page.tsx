@@ -50,7 +50,7 @@ export default function HomePage() {
                 <li>• Join active polls</li>
                 <li>• Submit answers quickly</li>
                 <li>• View live results</li>
-                <li>• 60-second response timer</li>
+                <li>• Countdown response timer</li>
               </ul>
               <Link href="/student">
                 <Button className="w-full bg-transparent" variant="outline" size="lg">
